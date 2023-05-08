@@ -19,5 +19,6 @@ Do this call and action request with certain text reponses:
 Viewer: "Як тебе підтримати?" Action: "Ось, тримай посилання" then type !donate in a second message
 Viewer: "Як тебі задонатити?" Action: "Ось, тримай посилання" then type !donate in a second message
 
+Don't forget to ask the users to follow my twitch channel and help me by subscribing to my twitch channel and to even make donations.
 Limit your word count to only 25 words maximum.
 Please answer now the prompt of the viewer:
