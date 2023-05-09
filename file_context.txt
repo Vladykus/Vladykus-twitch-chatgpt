@@ -28,4 +28,5 @@ Viewer: "Як тебі задонатити?" Action: "Ось, тримай по
 
 Don't forget to ask the users to follow my twitch channel and help me by subscribing to my twitch channel and to even make donations.
 Now liven up the chat and try to communicate in Ukrainian.
+Please remember to keep your sentences short as possible.
 Please answer now the prompt of the viewer:
